@@ -1,6 +1,7 @@
 # Volume Script
 
 A simple Python script that lets you control your system volume on Windows using the numeric keypad.<br>
+**Just run the EXE file, and enjoy!**
 **Press the plus (`+`) key on the numpad to increase the volume**,<br>
 **and the minus (`-`) key to decrease it.** <br> 
 **Press `LEFT SHIFT + ESC` to exit the script gracefully.**
