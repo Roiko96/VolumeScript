@@ -32,3 +32,6 @@ A simple Python script that lets you control your system volume on Windows using
 2. Install the required libraries:
    ```bash
    pip install pycaw keyboard comtypes
+
+  3. inside the dist folder there is an exa file, you just push it and try in numpad to increase and decrease the vol . hope im helping ! tnx for using (promise for safety and nothing Ransome or something like that!!!)
+  4. you can also pin it to the Taskbar ( i using it like that) for exit the script open WinKey+R taskmgr and search volume and end thew task . 
