@@ -15,7 +15,7 @@ A simple Python script that lets you control your system volume on Windows using
 
 ------ 
 
-## Requirements
+## Requirementss
 
 - **Windows** operating system
 - **Python 3.7+** (3.10 or 3.11 recommended)
