@@ -22,5 +22,6 @@ def decrease_volume():
 keyboard.add_hotkey('-', decrease_volume)
 keyboard.add_hotkey('+', increase_volume)
 
-print("Script is running. Press ESC to exit.")
+print("script is running..Press ESC to exit. tnx for me | you welcome (roiko:))")
 keyboard.wait('esc')
+
