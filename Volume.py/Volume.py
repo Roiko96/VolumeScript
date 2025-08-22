@@ -25,4 +25,6 @@ keyboard.add_hotkey('+', increase_volume)
 print("script is running..Press ESC to exit. tnx for me | you welcome (roiko:))") # הודעת פרידה 
 keyboard.wait('esc')
 
+# כבר עשיתי קובץ דיסט (המרה מפיי לאקסה שירוץ בwin)
+
 
